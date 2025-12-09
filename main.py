@@ -6,7 +6,8 @@ num2 = int(second)
 
 sum_result = num1 + num2
 sub_result = num1 - num2
-
+mul_result = num1 * num2
 
 print("Sum:", result)
 print("Difference:" , sub_result)
+print("Product:" , mul_result)
